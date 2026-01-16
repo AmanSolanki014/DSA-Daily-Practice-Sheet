@@ -22,9 +22,9 @@ int main(){
             count++;
             break;
         }
-        if(count==0){
-            cout<<"Element not found In the array!!"<<endl;
-        }
+    }
+    if(count==0){
+        cout<<"Element not Found In Array"<<endl;
     }
 
     return 0;
